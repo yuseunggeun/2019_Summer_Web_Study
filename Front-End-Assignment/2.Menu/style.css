@@ -1,0 +1,42 @@
+h1{
+	font-family: 'Cute Font', cursive;
+	font-size: 80px;
+	margin: 200 auto;
+	color: #414345;
+	text-align: center;
+}
+h2 {
+	font-family: 'Cute Font', cursive;
+    font-size: 50px;
+    text-align: center;
+  }
+h3 {
+	font-family: 'Cute Font', cursive;
+    font-size: 30px;
+    text-align: center;
+  }
+table{
+	font-size: 40px;
+	padding: 15px;
+	margin: 0 auto;
+	text-align: center;
+	color: black;
+	line-height: 3;
+}
+td{
+	font-family: 'Cute Font', cursive;
+	width: 300px;
+}
+body{
+	background-color: #6aea7e;
+}
+a{
+  text-decoration: none;
+  color : #414345;
+}
+#button{
+	background-color: red;
+	text-align: center;
+	width: 150px;
+	margin: 0 auto;
+}
