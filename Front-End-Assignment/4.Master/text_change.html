@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>webmaster</title>
+</head>
+
+<body>
+	<h1>I was a Web beginner.</h1>
+	<input type="button" id="target" value="Study!" />
+
+<script type = 'text/javascript'>
+	let target = document.getElementById("target");
+	target.onclick = function(){
+		document.getElementsByTagName("h1")[0].textContent = "I am still a Web beginner.";
+		
+	}
+</script>
+</body>
+
+</html>
